@@ -1,0 +1,33 @@
+h1 {
+    font-family: "Honk", system-ui;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+body{
+    background-color: #4e2cbe;
+}
+p{
+    font-family: "Bungee Spice", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.con1, .con2 {
+    display: inline-block;
+}
+
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+
+footer{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 15px;
+    font-family: cursive;
+    color: white;
+}
