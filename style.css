@@ -31,3 +31,22 @@ footer{
     font-family: cursive;
     color: white;
 }
+
+@media screen and (max-width: 480px) {
+    h1{
+        font-size: 60px;
+    }
+    .con1, .con2{
+        display: block;
+
+    }
+    img{
+        height: 100px;
+        width: 100px;
+    }
+
+    .con{
+        display: block;
+        text-align: center;
+    }
+}
